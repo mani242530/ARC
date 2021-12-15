@@ -3002,20 +3002,24 @@ blockquote cite:before {
 }
 @keyframes glowing {
   0% {
-    background-color: #2ba805;
-    box-shadow: 0 0 5px #2ba805;
+    background-color: #f24c1a;
+    box-shadow: 0 0 5px #f24c1a;
   }
   50% {
-    background-color: #49e819;
-    box-shadow: 0 0 20px #49e819;
+    background-color: #f24c1a;
+    box-shadow: 0 0 20px #f24c1a;
   }
   100% {
-    background-color: #2ba805;
-    box-shadow: 0 0 5px #2ba805;
+    background-color: #f24c1a;
+    box-shadow: 0 0 5px #f24c1a;
   }
 }
 .quote-btn {
   animation: glowing 1300ms infinite;
+}
+.blink-btn {
+  background-color: #f24c1a !important;
+  border-radius: 30px !important;
 }
 .full-width-header
   .rs-header.style2
@@ -3025,7 +3029,6 @@ blockquote cite:before {
   li
   .quote-btn {
   font-size: 14px;
-  background-image: linear-gradient(90deg, #0053b0 10%, #3c6ca4 100%);
   padding: 13px 22px;
   border-radius: 3px;
   color: #fff;
@@ -3039,7 +3042,6 @@ blockquote cite:before {
   li
   .quote-btn:hover {
   color: #ffffff;
-  background-image: linear-gradient(90deg, #0e73e4 0%, #03228f 100%);
 }
 .full-width-header .rs-header.style2 .expand-btn-inner .sidebarmenu-search > a {
   color: #101010;
@@ -3099,7 +3101,6 @@ blockquote cite:before {
 }
 .full-width-header .rs-header.style2 .expand-btn-inner ul li .quote-btn {
   font-size: 14px;
-  background-image: linear-gradient(90deg, #0053b0 10%, #3c6ca4 100%);
   padding: 13px 22px;
   border-radius: 3px;
   color: #fff;
@@ -3107,7 +3108,6 @@ blockquote cite:before {
 }
 .full-width-header .rs-header.style2 .expand-btn-inner ul li .quote-btn:hover {
   color: #ffffff;
-  background-image: linear-gradient(90deg, #0e73e4 0%, #03228f 100%);
 }
 .full-width-header
   .rs-header.style2.btn-style
