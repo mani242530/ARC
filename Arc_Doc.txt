@@ -1,0 +1,79 @@
+1.  Pages
+Home
+About Us
+Services
+Admission (will require a flash saying “Open Now"
+Contact
+2. Home Page
+Will have just 
+<PastedGraphic-1.png>
+
+Change the sub-line to “An activity Centre for children with Autism in Vellore, TN"
+Instead of contact us, please change it to WhatsApp logo.  Clicking it should send a message on WhatsApp to +91 7094221204.
+Background picture, I will provide
+
+
+
+3.  About Us
+Will have a short paragraph saying "ARC (Autism Residential Community) is an established assisted living facility for the care of adults with Autism.  We have been in operation in Vellore, Tamilnadu since 2020.
+Below that, in 3 boxes the following.  For the PC layout the boxes can be side by side and for the mobile layout, one below the other
+Purpose
+To make a difference in the lives of families living with Autism in Vellore
+To engage children with Autism to maximise their potential 
+To build the skills they need throughout their life
+Vision by 2027
+Create a thriving community of families living with Autism
+Provide an alternate learning opportunity
+Provide individualised functional skill curriculum that prepares them for life after ARC
+Develop an outreach model that provides training and short term support to professionals and teachers in an inclusive environment
+Values
+Promote mental wellbeing of students, their families and staff associated with ARC
+Identify the interest and ability of the child and build on it
+Act justly, love tenderly, walk in humility
+You can also add the below paragraph below the boxes, which will provide all the key words for search engines
+“Autism is a lifelong development disability which affects how people communicate and interact with the world.  It is estimated that at least 1 in 100 people in India are diagnosed with Autism Spectrum Disorder (ASD), which is over 12 million individuals in India.  There is no conclusive evidence of what causes autism, but a few possible causes have been put forward by researchers in this field. Given the complexity of the condition, and since symptoms and severity vary, there are probably many causes. Genetics and other environmental factors may play a role. Vaccines don’t play a role in causing autism.  ARC is a registered charitable trust (No.8/BK4/2019) incorporated in January 2019 for the benefit of people and families with Autism Spectrum Disorder (ASD).  Since October 2020, we are running a residential group home in Vellore, providing support to 6 adults with Autism on a full-time basis.  Therapies that are effective in the treatment of Autism are early intervention, applied behaviour analysis (ABA), cognitive behaviour therapy (CBT), social skills training, occupational therapy (OT), speech and language therapy (SaLT), sensory integration therapy, educational and school based therapies,  and use of assistive technologies”
+
+4.  Services
+In this section, we want the following in boxes.  You can have them appear 2 side by side on a mobile layout and maybe 3 side by side on a PC layout
+Early Intervention
+Knowledge
+Physical Activities
+Independent / Daily Living Skills
+Parent Support and Public Knowledge
+Vocational Training 
+Below all these boxes, add the following in one box
+Curriculum based on individual assessment of child
+Creative teaching and learning methods
+Need based resources
+Lead tutors RCI approved
+Support assistants to provide support and supervision during activities, mealtimes and playtime
+Therapist (OT, SaLT, Art,….) will provide 1:1 support
+ 
+5.  Admission
+Please include the following points
+Mandatory Autism diagnosis
+Admission based on individual assessment by our experts
+Flexible learning and timing options are available
+Working hours 
+10 am – 4 pm, Monday to Friday
+10 am -12.30 pm, Saturday
+Public Holidays and terms holidays excluded
+
+ 
+6.  Contact
+Whatsapp - 7094221204
+Phone - 7094221204
+Email - info@autismresidentialcommunity.org
+Address -  34, Hansika Street, Annamalaiyar Nagar, Alamelurangapuram, Vellore.
+You can add a map and a pin to the above location
+
+7.  Other features required
+A link in the about us section taking the reader to www.autismresidentialcommunity.org, our main website
+We don’t need a subscribe to newsletter
+You can have icons to Facebook, Instagram
+The logo does not have to be prominent.
+DAC or Day Activity Centre must be the buzz word
+
+8.  I will email separately suitable pictures to incorporate.
+
+Hope this is clear.  I am usually available on +91 7094221204, but is it out of action today.  Maybe in a few hours I will be available on it and not on the number you reached me on.
