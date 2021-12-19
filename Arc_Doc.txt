@@ -16,7 +16,7 @@ Background picture, I will provide
 
 
 3.  About Us
-Will have a short paragraph saying "ARC (Autism Residential Community) is an established assisted living facility for the care of adults with Autism.  We have been in operation in Vellore, Tamilnadu since 2020.
+Will have a short paragraph sayingARC (Autism Residential  is an established assisted living facility for the care of adults with Autism.  We have been in operation in Vellore, Tamilnadu since 2020.
 Below that, in 3 boxes the following.  For the PC layout the boxes can be side by side and for the mobile layout, one below the other
 Purpose
 To make a difference in the lives of families living with Autism in Vellore
@@ -95,7 +95,7 @@ Background picture, I will provide
 
 
 3.  About Us
-Will have a short paragraph saying "ARC (Autism Residential Community) is an established assisted living facility for the care of adults with Autism.  We have been in operation in Vellore, Tamilnadu since 2020.
+Will have a short paragraph sayingARC (Autism Residential  is an established assisted living facility for the care of adults with Autism.  We have been in operation in Vellore, Tamilnadu since 2020.
 Below that, in 3 boxes the following.  For the PC layout the boxes can be side by side and for the mobile layout, one below the other
 Purpose
 To make a difference in the lives of families living with Autism in Vellore
