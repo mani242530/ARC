@@ -1685,6 +1685,7 @@ blockquote cite:before {
 }
 .sec-title {
   position: relative;
+  text-align: justify;
 }
 .sec-title .sub-text {
   position: relative;
@@ -2865,7 +2866,7 @@ blockquote cite:before {
 }
 .full-width-header .rs-header.style2 .menu-area .logo-part img {
   transition: 0.4s;
-  max-height: 56px;
+  max-height: 50px;
 }
 .full-width-header .rs-header.style2 .menu-area .logo-part .dark {
   display: none;
@@ -5269,17 +5270,17 @@ body .search-modal .close:hover {
   transform: rotate(26deg);
 }
 .rs-breadcrumbs.img1 {
-  background: url(assets/img/3.jpg);
+  background: url(assets/img/35.jpg);
   background-position: center top;
 }
 .rs-breadcrumbs.img2 {
-  background: url(assets/img/3.jpg);
+  background: url(assets/img/32.jpg);
 }
 .rs-breadcrumbs.img3 {
-  background: url(assets/img/3.jpg);
+  background: url(assets/img/33.jpg);
 }
 .rs-breadcrumbs.img4 {
-  background: url(assets/img/3.jpg);
+  background: url(assets/img/34.jpg);
 }
 /* ------------------------------------
     08. Slider Section CSS
@@ -6163,7 +6164,7 @@ body .search-modal .close:hover {
 }
 .rs-contact .contact-box {
   background-image: linear-gradient(90deg, #f69f6b 41%, #fbbb6a 100%);
-  padding: 80px 30px 80px 30px;
+  padding: 30px 30px 80px 30px;
   border-radius: 5px 5px 5px 5px;
 }
 .rs-contact .contact-box .address-box {
@@ -12638,7 +12639,7 @@ body .search-modal .close:hover {
 --------------------------*/
 #scrollUp {
   text-align: center;
-  bottom: 40px;
+  bottom: 100px;
   cursor: pointer;
   display: none;
   position: fixed;
