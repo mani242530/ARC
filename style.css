@@ -108,7 +108,7 @@ html,
 body {
   font-size: 16px;
   color: #111;
-  font-family: "Livvic", sans-serif;
+  font-family: "Livvic";
   vertical-align: baseline;
   line-height: 26px;
   font-weight: 400;
@@ -128,7 +128,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Livvic", sans-serif;
+  font-family: "Livvic";
   color: #101010;
   margin: 0 0 26px;
   line-height: 1.2;
@@ -207,7 +207,7 @@ body.nav-expanded .offwrap {
 .bold-text {
   font-size: 20px;
   font-weight: bold;
-  font-family: "Livvic", sans-serif;
+  font-family: "Livvic";
 }
 .extra-bold {
   font-weight: 800 !important;
@@ -1301,7 +1301,7 @@ blockquote cite:before {
   padding-right: 25px;
   position: relative;
   z-index: 1;
-  font-family: "Livvic", sans-serif;
+  font-family: "Livvic";
   font-weight: 500;
   font-size: 15px;
   transition: all 0.3s;
@@ -1806,7 +1806,7 @@ blockquote cite:before {
   margin: 0 0 10px;
   display: block;
   line-height: 28px;
-  font-family: "Livvic", sans-serif;
+  font-family: "Livvic";
   font-size: 14px;
   font-weight: 400;
   color: #03228f;
@@ -2407,7 +2407,7 @@ blockquote cite:before {
   padding: 0;
   color: #ffffff;
   position: relative;
-  font-family: Livvic;
+  font-family: "Livvic";
 }
 .full-width-header
   .rs-header
@@ -5026,7 +5026,7 @@ body .search-modal .close:hover {
   font-size: 52px;
   line-height: 70px;
   font-weight: 700;
-  color: #101010;
+  color: #ffffff;
 }
 .rs-banner.style6 .banner-content .title .blue-color {
   color: #0073ff;
@@ -5044,13 +5044,8 @@ body .search-modal .close:hover {
 }
 .rs-banner.style6 .images-part {
   position: absolute;
-  right: 10%;
-  top: 50%;
+  top: 0%;
   transform: translateY(-50%);
-  max-width: 670px;
-}
-.rs-banner.style6 .images-part img {
-  animation: move-y 2s alternate infinite;
 }
 .rs-banner.style7 {
   background: url(assets/images/banner/style3/home-11.jpg);
@@ -6330,7 +6325,7 @@ body .search-modal .close:hover {
   margin: 0 0 10px;
   display: block;
   line-height: 28px;
-  font-family: "Livvic", sans-serif;
+  font-family: "Livvic";
   font-size: 14px;
   letter-spacing: 1px;
   text-transform: uppercase;
