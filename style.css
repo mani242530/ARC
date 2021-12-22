@@ -2863,6 +2863,7 @@ blockquote cite:before {
 }
 .full-width-header .rs-header.style2 .menu-area {
   background: #ffffff;
+  box-shadow: 0 0 5px 0 rgb(0 0 0 / 20%);
 }
 .full-width-header .rs-header.style2 .menu-area .logo-part img {
   transition: 0.4s;
@@ -5010,7 +5011,7 @@ body .search-modal .close:hover {
   position: relative;
 }
 .rs-banner.style6 .banner-content {
-  padding: 170px 0 200px;
+  padding: 70px 0 200px;
 }
 .rs-banner.style6 .banner-content .sub-text {
   font-size: 17px;
