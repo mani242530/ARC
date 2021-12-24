@@ -2026,7 +2026,7 @@ blockquote cite:before {
   margin: 0;
 }
 .sec-title4 .desc.desc-big {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 30px;
   margin: 26px 0px 30px 0px;
 }
@@ -5266,17 +5266,17 @@ body .search-modal .close:hover {
   transform: rotate(26deg);
 }
 .rs-breadcrumbs.img1 {
-  background: url(assets/img/35.jpg);
+  background: url(assets/img/36.jpg);
   background-position: center top;
 }
 .rs-breadcrumbs.img2 {
   background: url(assets/img/32.jpg);
 }
 .rs-breadcrumbs.img3 {
-  background: url(assets/img/33.jpg);
+  background: url(assets/img/31.jpg);
 }
 .rs-breadcrumbs.img4 {
-  background: url(assets/img/34.jpg);
+  background: url(assets/img/42.jpg);
 }
 .rs-breadcrumbs.img5 {
   background: url(assets/img/39.jpeg);
@@ -7720,12 +7720,12 @@ body .search-modal .close:hover {
   transition: all 0.3s ease;
 }
 .rs-services.style3 .services-item .services-icon .image-part .main-img {
-  height: 70px;
-  width: 70px;
+  height: 100px;
+  width: 100px;
 }
 .rs-services.style3 .services-item .services-icon .image-part .hover-img {
-  height: 70px;
-  width: 70px;
+  height: 100px;
+  width: 100px;
   position: absolute;
   left: 0;
   top: 0;
@@ -7735,7 +7735,7 @@ body .search-modal .close:hover {
   transition: all 0.3s ease;
 }
 .rs-services.style3 .services-item .services-content {
-  padding: 33px 0px 0px 0;
+  padding: 0px 0px 0px 30px;
   position: relative;
 }
 .rs-services.style3 .services-item .services-content .services-text .title {
@@ -7806,7 +7806,7 @@ body .search-modal .close:hover {
   transform: scale(1);
 }
 .rs-services.style3 .services-item:hover .services-content {
-  padding: 33px 0px 0px 0;
+  padding: 0px 0px 0px 30px;
   position: relative;
 }
 .rs-services.style3
