@@ -2378,7 +2378,7 @@ blockquote cite:before {
 }
 .full-width-header .rs-header .menu-area {
   transition: all 0.3s ease;
-  background-image: linear-gradient(90deg, #03228f 10%, #0e73e4 100%);
+  background-color: #b9d4f1;
 }
 .full-width-header .rs-header .menu-area .logo-area a img {
   transition: 0.4s;
@@ -2405,7 +2405,7 @@ blockquote cite:before {
   height: 65px;
   line-height: 65px;
   padding: 0;
-  color: #ffffff;
+  color: #0053b0;
   position: relative;
   font-family: "Roboto", sans-serif;
 }
@@ -2417,7 +2417,7 @@ blockquote cite:before {
   ul.nav-menu
   li
   a:hover {
-  color: #bbb;
+  color: #f4ad0c;
 }
 .full-width-header
   .rs-header
@@ -2468,7 +2468,7 @@ blockquote cite:before {
   ul.nav-menu
   li.current-menu-item
   > a {
-  color: #bbb;
+  color: #f4ad0c;
 }
 .full-width-header
   .rs-header
@@ -2735,7 +2735,7 @@ blockquote cite:before {
   ul.nav-menu
   > li
   > a {
-  color: #111;
+  color: #0053b0;
 }
 .full-width-header
   .rs-header
@@ -2755,7 +2755,7 @@ blockquote cite:before {
   ul.nav-menu
   > li.current-menu-item
   > a {
-  color: #106eea;
+  color: #f4ad0c;
 }
 .full-width-header
   .rs-header
@@ -4313,10 +4313,10 @@ blockquote cite:before {
   float: left;
 }
 .full-width-header .mobile-menu .mobile-logo img {
-  max-height: 30px;
+  max-height: 50px;
 }
 .full-width-header .mobile-menu .rs-menu-toggle {
-  color: #ffffff;
+  color: #03228f;
   float: right;
 }
 .full-width-header .mobile-menu .rs-menu-toggle:hover {
@@ -5226,7 +5226,7 @@ body .search-modal .close:hover {
   background-size: cover !important;
 }
 .rs-breadcrumbs .breadcrumbs-inner {
-  padding: 140px 0 150px;
+  padding: 25px 0 150px;
 }
 .rs-breadcrumbs .breadcrumbs-inner .page-title {
   font-size: 48px;
@@ -6170,7 +6170,6 @@ body .search-modal .close:hover {
   display: flex;
 }
 .rs-contact .contact-box .address-box .address-icon {
-  background-image: linear-gradient(275deg, #ffffff 0%, #fcfcff 100%);
   min-width: 48px;
   height: 48px;
   line-height: 48px;
