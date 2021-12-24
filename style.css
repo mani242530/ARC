@@ -46,7 +46,7 @@
 
 --------------------------------------------------------*/
 @font-face {
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -54,7 +54,7 @@
     format("truetype");
 }
 @font-face {
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 300;
   font-display: swap;
@@ -62,7 +62,7 @@
     format("truetype");
 }
 @font-face {
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -70,7 +70,7 @@
     format("truetype");
 }
 @font-face {
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -78,7 +78,7 @@
     format("truetype");
 }
 @font-face {
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 600;
   font-display: swap;
@@ -86,7 +86,7 @@
     format("truetype");
 }
 @font-face {
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -94,7 +94,7 @@
     format("truetype");
 }
 @font-face {
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 900;
   font-display: swap;
@@ -108,7 +108,7 @@ html,
 body {
   font-size: 16px;
   color: #111;
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   vertical-align: baseline;
   line-height: 26px;
   font-weight: 400;
@@ -128,7 +128,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   color: #101010;
   margin: 0 0 26px;
   line-height: 1.2;
@@ -207,7 +207,7 @@ body.nav-expanded .offwrap {
 .bold-text {
   font-size: 20px;
   font-weight: bold;
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
 }
 .extra-bold {
   font-weight: 800 !important;
@@ -1301,7 +1301,7 @@ blockquote cite:before {
   padding-right: 25px;
   position: relative;
   z-index: 1;
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 15px;
   transition: all 0.3s;
@@ -1806,7 +1806,7 @@ blockquote cite:before {
   margin: 0 0 10px;
   display: block;
   line-height: 28px;
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #03228f;
@@ -2170,8 +2170,8 @@ blockquote cite:before {
 }
 .full-width-header .rs-header .topbar-area .rs-contact-info .contact-part {
   display: inline-block;
-  padding-right: 25px;
-  padding-left: 25px;
+  padding-right: 10px;
+  padding-left: 10px;
   border-right: 1px solid #eee;
   font-size: 14px;
 }
@@ -2407,7 +2407,7 @@ blockquote cite:before {
   padding: 0;
   color: #ffffff;
   position: relative;
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
 }
 .full-width-header
   .rs-header
@@ -6325,7 +6325,7 @@ body .search-modal .close:hover {
   margin: 0 0 10px;
   display: block;
   line-height: 28px;
-  font-family: "Livvic";
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   letter-spacing: 1px;
   text-transform: uppercase;
